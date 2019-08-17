@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564161327222.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "135|24|138|0|\n",
+    "hash" : "0",
+    "id" : "21521320",
+    "lastKnownWriteTime" : 1565983129,
+    "last_content_update" : 1565983129247,
+    "path" : "~/Desktop/Dr. Saleh/R/Test/R/identification.R",
+    "project_path" : "R/identification.R",
+    "properties" : {
+        "cursorPosition" : "40,18",
+        "scrollLine" : "23",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
